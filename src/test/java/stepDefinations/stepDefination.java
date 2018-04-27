@@ -105,6 +105,8 @@ public class stepDefination {
     @Then("^Check browser is opened$")
     public void check_browser_is_opened() throws Throwable {
     	System.out.println("Chrome opened");
+    	System.out.println("Chrome opened2");
+    	System.out.println("Chrome opened3");
 
     }
     
